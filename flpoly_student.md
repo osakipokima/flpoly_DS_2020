@@ -1,23 +1,23 @@
-## First Name Last Name
+## Osaki Pokima
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Digital Forensics
 
-- Course 3
+- Senior Design 2
 
-- Course 4
+- Software Security Testing
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Traveling
 
-- Thing 2
+- Shuffling
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Tech 
